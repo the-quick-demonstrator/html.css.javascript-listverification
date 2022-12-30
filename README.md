@@ -16,7 +16,7 @@
 
 Here is an example of what the HTML file may look like:
 
-![](./img/solution.png)
+![](./img/solution.PNG)
 
 
 
