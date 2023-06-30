@@ -7,12 +7,12 @@
 
 ## Objective
 * For this assignment, learners will need to create an HTML file with the following elements:
-  1. An unordered list with in-line style of list-style-type:disc;. This list should contain 5 super-hero names, each item being a list item.
-  2. An unordered list with in-line style of list-style-circle;. This list should contain 5 super-hero names, each item being a list item.
-  3. An ordered list with type="1". This list should contain 5 super-hero names, each item being a list item.
-  4. An ordered list with type="A". This list should contain 5 super-hero names, each item being a list item.
-  5. An ordered list with type="I". This list should contain 5 super-hero names, each item being a list item.
-  6. An ordered list with type="i". This list should contain 5 super-hero names, each item being a list item.
+  1. An unordered list with in-line style of `list-style-type:disc;`. This list should contain 5 super-hero names, each item being a list item.
+  2. An unordered list with in-line style of `list-style-circle;`. This list should contain 5 super-hero names, each item being a list item.
+  3. An ordered list with `type="1"`. This list should contain 5 super-hero names, each item being a list item.
+  4. An ordered list with `type="A"`. This list should contain 5 super-hero names, each item being a list item.
+  5. An ordered list with `type="I"`. This list should contain 5 super-hero names, each item being a list item.
+  6. An ordered list with `type="i"`. This list should contain 5 super-hero names, each item being a list item.
 
 Here is an example of what the HTML file may look like:
 
